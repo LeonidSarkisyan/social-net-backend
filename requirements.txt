@@ -1,0 +1,6 @@
+fastapi
+sqlalchemy==1.4.48
+uvicorn
+Pillow
+passlib[bcrypt]
+pydantic
